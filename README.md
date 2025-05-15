@@ -10,6 +10,6 @@ Another great addition to the dashboard which—of course, is entirely dynamic, 
 * [Pinterest](https://pinterest.com) - For even more inspiration!
 * [Instant Eyedropper](http://instant-eyedropper.com) - Identify any color in your reach!
 
-![hr-dashboard](https://github.com/user-attachments/assets/b0c772b6-3d96-4ef0-af55-97380cf0bcf5)
-
 ![hr-dashboard-tooltip](https://github.com/user-attachments/assets/de1213f8-50ae-4c28-a518-ff46b24c5201)
+
+![hr-dashboard](https://github.com/user-attachments/assets/b0c772b6-3d96-4ef0-af55-97380cf0bcf5)
